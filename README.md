@@ -43,7 +43,7 @@ Software Island, apresenta pontos turísticos famosos, bares e restaurantes loca
       🎨 Desenvolvimento Front-End & UI/UX
     </td>
     <td align="center">
-      <img src="./public/equipe/ri 1.svg"><br>
+      <img src="./public/equipe/ri 1.svg" width="85"><br>
       <sub>
         <a href="https://github.com/rinmarys"><b>Rinmarys Monagas</b></a>
       </sub><br>
