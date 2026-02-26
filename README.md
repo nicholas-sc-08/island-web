@@ -20,30 +20,30 @@ Software Island, apresenta pontos turísticos famosos, bares e restaurantes loca
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/nicholas-sc-08.png" width="85px" style="border-radius: 50%;"><br>
+      <img src="./public/equipe/ni 1.svg" width="85"><br>
       <sub>
-        <a href="https://github.com/nicholas-sc-08"><b>Nicholas Serencovich Carvalho</b></a>
+        <a href="https://github.com/nicholas-sc-08"><b>Nicholas Carvalho</b></a>
       </sub><br>
       💻 Arquitetura e Desenvolvimento do Back-End
     </td>
     <td align="center">
-      <img src="https://github.com/eduardos4antos.png" width="85px" style="border-radius: 50%;"><br>
+      <img src="./public/equipe/ed 1.svg" width="85"><br>
       <sub>
         <a href="https://github.com/eduardos4antos"><b>Eduardo Santos</b></a>
       </sub><br>
-      🗄️ Apoio na Modelagem do Banco de Dados
+      🗄️ Modelagem do Banco de Dados
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/samuel-bordignon.png" width="85px" style="border-radius: 50%;"><br>
+      <img src="./public/equipe/sa 1.svg" width="85" ><br>
       <sub>
         <a href="https://github.com/samuel-bordignon"><b>Samuel Bordignon</b></a>
       </sub><br>
       🎨 Desenvolvimento Front-End & UI/UX
     </td>
     <td align="center">
-      <img src="https://github.com/rinmarys.png" width="85px" style="border-radius: 50%;"><br>
+      <img src="./public/equipe/ri 1.svg"><br>
       <sub>
         <a href="https://github.com/rinmarys"><b>Rinmarys Monagas</b></a>
       </sub><br>
@@ -52,14 +52,14 @@ Software Island, apresenta pontos turísticos famosos, bares e restaurantes loca
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/jailton-costa.png" width="85px" style="border-radius: 50%;"><br>
+      <img src="./public/equipe/ja 1.svg" width="85"><br>
       <sub>
         <a href="https://github.com/jailton-costa"><b>Jailton Costa</b></a>
       </sub><br>
       💻 Desenvolvimento Front-End
     </td>
     <td align="center">
-      <img src="https://github.com/DarlanHildebrando.png" width="85px" style="border-radius: 50%;"><br>
+      <img src="./public/equipe/da 1.svg" width="85"><br>
       <sub>
         <a href="https://github.com/DarlanHildebrando"><b>Darlan Hildebrando</b></a>
       </sub><br>
@@ -166,3 +166,5 @@ npm run dev
 
  Caso queira ver o repositório que o projeto foi desenvolvido acesse o link:
  <a href="https://github.com/DarlanHildebrando/frontend-hackathon"> Acesse aqui</a>
+
+ Repositório Back-End: <a href="https://github.com/nicholas-sc-08/island-api">Island API</a>
